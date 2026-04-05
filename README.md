@@ -24,7 +24,7 @@ Code Explanation:
 - Breadboard and wires
 
  Circuit Diagram:
- ![Circuit](arduino/traffic-light/circuit.png)
+ !circuit.png
 ---
 
 Feel free to clone and modify the code!
