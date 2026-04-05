@@ -7,8 +7,8 @@ Description:
 This project simulates a traffic light system using Arduino and three LEDs: red, yellow, and green. It is created and tested in Tinkercad.
 
  How It Works:
-- The red LED lights up for 3 seconds indicating stop.
-- The green LED lights up for 3 seconds indicating go.
+- The red LED lights up for 1  seconds indicating stop.
+- The green LED lights up for 1 seconds indicating go.
 - The yellow LED lights up for 1 second indicating caution.
 - This cycle repeats indefinitely.
 
