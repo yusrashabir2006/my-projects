@@ -24,7 +24,7 @@ Code Explanation:
 - Breadboard and wires
 
  Circuit Diagram:
- !circuit.png
+ https://github.com/yusrashabir2006/my-projects/blob/main/circuit.png.png
 ---
 
 Feel free to clone and modify the code!
