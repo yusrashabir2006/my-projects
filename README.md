@@ -23,6 +23,8 @@ Code Explanation:
 - 220-ohm resistors
 - Breadboard and wires
 
+ Circuit Diagram:
+ ![Circuit](arduino/traffic-light/circuit.png)
 ---
 
 Feel free to clone and modify the code!
